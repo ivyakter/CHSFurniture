@@ -1,0 +1,823 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MainMaster.master.cs" Inherits="MasterPage_MainMaster" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Kute Shop is new Html theme that we have designed to help you transform your store into a beautiful online showroom. This is a fully responsive Html theme, with multiple versions for homepage and multiple templates for sub pages as well" />
+    <meta name="keywords" content="Kute Shop,7uptheme" />
+    <meta name="robots" content="noodp,index,follow" />
+    <meta name='revisit-after' content='1 days' />
+    <title>CHS Furniture</title>
+    <link rel="icon" type="image/png" sizes="16x16" href="../img/chs_logo.jpg" />
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css' />
+    <%--   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" />--%>
+    <link rel="stylesheet" type="text/css" href="../css/libs/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="../css/libs/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="../css/libs/bootstrap-theme.css" />
+    <link rel="stylesheet" type="text/css" href="../css/libs/jquery.fancybox.css" />
+    <link rel="stylesheet" type="text/css" href="../css/libs/jquery-ui.min.css" />
+    <link rel="stylesheet" type="text/css" href="../css/libs/owl.carousel.css" />
+    <link rel="stylesheet" type="text/css" href="../css/libs/owl.transitions.css" />
+    <link rel="stylesheet" type="text/css" href="../css/libs/owl.theme.css" />
+    <link rel="stylesheet" type="text/css" href="../css/libs/jquery.mCustomScrollbar.css" />
+    <link rel="stylesheet" type="text/css" href="../css/libs/animate.css" />
+    <link rel="stylesheet" type="text/css" href="../css/libs/hover.css" />
+    <link rel="stylesheet" type="text/css" href="../css/color-magenta3.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="../css/theme.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="../css/responsive.css" media="all" />
+    <link rel="stylesheet" type="text/css" href="../css/browser.css" media="all" />
+
+    <!-- <link rel="stylesheet" type="text/css" href="css/rtl.css" media="all"/> -->
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <div class="wrap">
+            <div id="header">
+
+                <div class="header">
+                   <div class="top-header top-header4">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <div class="account-login account-login3">
+                                        <%--<a href="#">My Account</a>
+                                        <a href="#">checkout</a>
+                                        <a href="login.aspx">Login</a>
+                                        <a href="#">Register</a>--%>
+
+                                                <a href="#" data-toggle="modal" data-target="#myModal">My Account</a>
+                                                <a href="#" data-toggle="modal" data-target="#myModal">checkout</a>
+                                                <a href="<%= Page.ResolveUrl("~")%>login.aspx">LogIn</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-6 hidden-xs">
+                               <%--     <div class="currency-language currency-language3">
+                                        <div class="language-box">
+                                            <a href="#" class="language-current">
+                                                <img src="images/flag/flag.png" alt=""><span>English</span></a>
+                                            <ul class="language-list list-unstyled">
+                                                <li><a href="#">
+                                                    <img src="images/flag/flag-en.png" alt=""><span>English</span></a></li>
+                                                <li><a href="#">
+                                                    <img src="images/flag/flag-fr.png" alt=""><span>French</span></a></li>
+                                                <li><a href="#">
+                                                    <img src="images/flag/flag-gm.png" alt=""><span>German</span></a></li>
+                                            </ul>
+                                        </div>
+                                        <div class="currency-box">
+                                            <a href="#" class="currency-current"><span>USD</span></a>
+                                            <ul class="currency-list list-unstyled">
+                                                <li><a href="#"><span class="currency-index">€</span>EUR</a></li>
+                                                <li><a href="#"><span class="currency-index">¥</span>JPY</a></li>
+                                                <li><a href="#"><span class="currency-index">$</span>USD</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>--%>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <%--//////////////////Register/////////////////////////--%>
+                    <div class="modal fade" id="myModal" tabindex="-1" style="z-index: 99999;" role="dialog" aria-labelledby="myLargeModalLabel"
+                        aria-hidden="true">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <asp:Button type="button" runat="server" ID="btnX" Text="X" class="close" data-dismiss="modal" aria-hidden="true"></asp:Button>
+                                    <h4 class="modal-title" id="myModalLabel">Login/Registration</h4>
+                                </div>
+                                <div class="modal-body">
+                                    <div class="row">
+                                        <div class="col-md-12" style="border-right: 1px dotted #C2C2C2; padding-right: 30px;">
+                                            <!-- Nav tabs -->
+                                            <ul class="nav nav-tabs">
+                                                <li class="active"><a href="#Login" data-toggle="tab">Login</a></li>
+                                                <li><a href="#Registration" data-toggle="tab">Registration</a></li>
+                                            </ul>
+                                            <!-- Tab panes -->
+                                            <div class="tab-content">
+                                                <div class="tab-pane active" id="Login">
+
+                                                    <div class="row form-group">
+                                                        <asp:Label runat="server" ID="lblemial1" Text="Email" for="txtemail1" class="col-sm-3 col-sm-offset-2 control-label">
+                                                        </asp:Label>
+                                                        <div class="col-sm-4 input-group">
+
+                                                            <asp:TextBox ID="txtemaillog" runat="server" CssClass="form-control" placeholder="User Name" />
+                                                            <span class="input-group-addon"><i class="fa fa-user"></i></span>
+                                                        </div>
+                                                        <asp:RequiredFieldValidator ID="RequiredFieldValidator8" CssClass="text-danger" runat="server" ErrorMessage="Must" ControlToValidate="txtemaillog"></asp:RequiredFieldValidator>
+                                                        <%-- <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ValidationExpression="\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" ControlToValidate="txtemaillog" ErrorMessage="Invalid"></asp:RegularExpressionValidator>--%>
+                                                    </div>
+                                                    <div class="row form-group">
+                                                        <asp:Label runat="server" ID="lblpass1" Text="Password" for="txtpass1" class="col-sm-3 col-sm-offset-2 control-label">
+                                                        </asp:Label>
+                                                        <div class="col-sm-4 input-group">
+                                                            <asp:TextBox ID="txtpasslog" runat="server" TextMode="Password" CssClass="form-control" placeholder="Password" />
+                                                            <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                                                        </div>
+                                                        <asp:RequiredFieldValidator ID="RequiredFieldValidator9" CssClass="text-danger" runat="server" ErrorMessage="Must" ControlToValidate="txtpasslog"></asp:RequiredFieldValidator>
+                                                    </div>
+                                                    <br />
+                                                    <div class="row">
+
+                                                        <div class="col-sm-8 col-sm-offset-3">
+                                                            <asp:Button ID="btnlogin" runat="server" type="submit" CausesValidation="false" OnClick="btnlogin_Click" Text="Submit" CssClass="btn btn-primary btn-sm"></asp:Button>
+                                                            <a href="javascript:;">Forgot your password?</a>&nbsp;&nbsp; || <a href="javascript:;">Forgot your password?Register</a>
+                                                        </div>
+                                                        <%--     <div class="col-md-4">
+                                                                <a href="#">For New Customer ? <strong style="color:red">Register</strong></a>
+                                                            </div>--%>
+                                                    </div>
+                                                    <br />
+
+
+                                                </div>
+
+
+                                                <div class="tab-pane" id="Registration">
+
+                                                    <div class="col-md-6">
+
+
+                                                        <div class="row form-group">
+                                                            <asp:Label for="email" Text="First Name" runat="server" ID="lblname" class="col-sm-3  control-label">
+                                                            </asp:Label>
+
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+
+                                                                    <asp:TextBox ID="txtfirstname" runat="server" CssClass="form-control" placeholder="First Name" />
+                                                                    <span class="input-group-addon"><i class="fa fa-pencil"></i></span>
+                                                                </div>
+                                                            </div>
+                                                            <asp:RequiredFieldValidator ID="RequiredFieldValidator1" CssClass="text-danger" runat="server" ErrorMessage="Must" ControlToValidate="txtfirstname"></asp:RequiredFieldValidator>
+                                                        </div>
+
+                                                        <div class="row form-group">
+                                                            <asp:Label for="email" Text="Middle Name" runat="server" ID="Label2" class="col-sm-3 control-label">
+                                                            </asp:Label>
+
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+                                                                    <asp:TextBox ID="txtmiddlename" runat="server" CssClass="form-control" placeholder="Middle Name" />
+                                                                    <span class="input-group-addon"><i class="fa fa-pencil"></i></span>
+                                                                </div>
+                                                            </div>
+                                                            <asp:RequiredFieldValidator ID="RequiredFieldValidator2" CssClass="text-danger" runat="server" ErrorMessage="Must" ControlToValidate="txtmiddlename"></asp:RequiredFieldValidator>
+                                                        </div>
+                                                        <div class="row form-group">
+                                                            <asp:Label Text="Last Name" runat="server" ID="Label3" class="col-sm-3  control-label">
+                                                            </asp:Label>
+
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+
+                                                                    <asp:TextBox ID="txtlastname" runat="server" CssClass="form-control" placeholder="Last Name" />
+                                                                    <span class="input-group-addon"><i class="fa fa-pencil"></i></span>
+
+                                                                </div>
+                                                            </div>
+                                                            <asp:RequiredFieldValidator ID="RequiredFieldValidator3" CssClass="text-danger" runat="server" ErrorMessage="Must" ControlToValidate="txtlastname"></asp:RequiredFieldValidator>
+                                                        </div>
+                                                        <div class="row form-group">
+                                                            <asp:Label ID="lblemaul2" runat="server" Text="Country" class="col-sm-3 control-label">
+                                                            </asp:Label>
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+                                                                    <asp:DropDownList ID="ddlcountry" class="form-control" runat="server">
+                                                                        <asp:ListItem>United Kingdoom</asp:ListItem>
+                                                                    </asp:DropDownList>
+                                                                    <span class="input-group-addon"><i class="fa fa-globe"></i></span>
+                                                                    <%--<asp:RequiredFieldValidator ID="RequiredFieldValidator4" CssClass="text-danger" runat="server" ErrorMessage="This field is Required !" ControlToValidate="txtemail2"></asp:RequiredFieldValidator>--%>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row form-group">
+                                                            <asp:Label runat="server" Text="Post Code" ID="Label4" class="col-sm-3 control-label">
+                                                            </asp:Label>
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+                                                                    <asp:TextBox ID="txtpostcode" runat="server" class="form-control" placeholder="Post Code" />
+                                                                    <span class="input-group-addon"><i class="fa fa-pencil"></i></span>
+
+                                                                </div>
+                                                            </div>
+                                                            <asp:RequiredFieldValidator ID="RequiredFieldValidator4" CssClass="text-danger" runat="server" ErrorMessage="Must" ControlToValidate="txtpostcode"></asp:RequiredFieldValidator>
+                                                        </div>
+
+                                                        <div class="row form-group">
+                                                            <asp:Label runat="server" Text="Moblile" ID="Label8" class="col-sm-3  control-label">
+                                                            </asp:Label>
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+                                                                    <asp:TextBox ID="txtmobile" runat="server" class="form-control" placeholder="Moblile" />
+                                                                    <span class="input-group-addon"><i class="fa fa-phone-square"></i></span>
+                                                                    <%-- <asp:RequiredFieldValidator ID="RequiredFieldValidator5" CssClass="text-danger" runat="server" ErrorMessage="This field is Required !" ControlToValidate="txtmobile"></asp:RequiredFieldValidator>--%>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+
+                                                    <div class="col-md-6">
+
+
+                                                        <div class="row form-group">
+                                                            <asp:Label runat="server" Text="Landline" ID="Label5" class="col-sm-3  control-label">
+                                                            </asp:Label>
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+                                                                    <asp:TextBox ID="txtlandline" runat="server" class="form-control" placeholder="Landline" />
+                                                                    <span class="input-group-addon"><i class="fa fa-phone-square"></i></span>
+                                                                    <%-- <asp:RequiredFieldValidator ID="RequiredFieldValidator5" CssClass="text-danger" runat="server" ErrorMessage="This field is Required !" ControlToValidate="txtmobile"></asp:RequiredFieldValidator>--%>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row form-group">
+                                                            <asp:Label runat="server" Text="Email" ID="Label6" class="col-sm-3  control-label">
+                                                            </asp:Label>
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+                                                                    <asp:TextBox ID="txtemail" runat="server" AutoPostBack="true" OnTextChanged="txtemail_TextChanged" class="form-control" placeholder="Email" />
+                                                                    <span class="input-group-addon"><i class="fa fa-phone-square"></i></span>
+
+                                                                </div>
+                                                            </div>
+                                                            <asp:RegularExpressionValidator ID="regexEmailValid" runat="server" ValidationExpression="\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" ControlToValidate="txtemail" ErrorMessage="Invalid"></asp:RegularExpressionValidator>
+                                                        </div>
+                                                        <div class="row form-group">
+                                                            <asp:Label runat="server" Text="Email confirmation" ID="Label7" class="col-sm-3 control-label">
+                                                            </asp:Label>
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+                                                                    <asp:TextBox ID="txtemailconfirm" runat="server" class="form-control" placeholder="Email confirmation" />
+                                                                    <span class="input-group-addon"><i class="fa fa-phone-square"></i></span>
+
+                                                                </div>
+                                                            </div>
+                                                            <asp:CompareValidator ID="CompareValidator2" runat="server" CssClass="ValidationError" ErrorMessage="Not Matched" ToolTip="Password must be the same" ControlToValidate="txtemailconfirm" ControlToCompare="txtemail"></asp:CompareValidator>
+                                                            <asp:RequiredFieldValidator ID="RequiredFieldValidator5" CssClass="text-danger" runat="server" ErrorMessage="Must" ControlToValidate="txtemailconfirm"></asp:RequiredFieldValidator>
+                                                        </div>
+                                                        <div class="row form-group">
+                                                            <asp:Label Text="Password" runat="server" ID="lblpass2" class="col-sm-3  control-label">
+                                                            </asp:Label>
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+                                                                    <asp:TextBox ID="txtpassword" runat="server" TextMode="Password" class="form-control" placeholder="Password" />
+                                                                    <span class="input-group-addon"><i class="fa fa-key"></i></span>
+                                                                </div>
+                                                            </div>
+                                                            <asp:RequiredFieldValidator ID="RequiredFieldValidator6" CssClass="text-danger" runat="server" ErrorMessage="Must" ControlToValidate="txtpassword"></asp:RequiredFieldValidator>
+                                                        </div>
+                                                        <div class="row form-group">
+                                                            <asp:Label Text="Confirm Password" runat="server" ID="Label1" class="col-sm-3  control-label">
+                                                            </asp:Label>
+                                                            <div class="col-sm-8 inputGroupContainer">
+                                                                <div class="input-group">
+                                                                    <asp:TextBox ID="txtpasswordconfirm" runat="server" TextMode="Password" class="form-control" placeholder="Confirm Password" />
+                                                                    <span class="input-group-addon"><i class="fa fa-key"></i></span>
+
+                                                                </div>
+                                                            </div>
+                                                            <asp:CompareValidator ID="CompareValidator1" runat="server" CssClass="ValidationError" ErrorMessage="Not Matched" ToolTip="Password must be the same" ControlToValidate="txtpasswordconfirm" ControlToCompare="txtpassword"></asp:CompareValidator>
+                                                            <asp:RequiredFieldValidator ID="RequiredFieldValidator7" CssClass="text-danger" runat="server" ErrorMessage="Must" ControlToValidate="txtpasswordconfirm"></asp:RequiredFieldValidator>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="row"></div>
+                                                    <hr />
+                                                    <div class="row">
+                                                        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span>
+                                                            <asp:CheckBox ID="chkagree" runat="server" />
+                                                            I agree that I am 18 years or over and I also agreed with the BRR Whole Sale terms & conditions.</span>
+                                                        <hr />
+                                                        <div class="col-sm-7 col-sm-offset-5">
+                                                            <asp:Button type="button" ID="btnsaveconti" runat="server" UseSubmitBehavior="false" CausesValidation="false" OnClick="btnsaveconti_Click" Text="Save & Continue" class="btn btn-primary btn-sm"></asp:Button>
+                                                            <asp:Button runat="server" ID="btncancel" Text="Cancel" CausesValidation="false" class="btn btn-default btn-sm"></asp:Button>
+                                                            <asp:Label ID="lbl" runat="server" Text=""></asp:Label>
+                                                        </div>
+
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
+                    <!-- End Top Header -->
+                    <div class="main-header2 main-header12">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-3 col-sm-3 col-xs-12">
+                                    <div class="logo logo2">
+                                        <h1 class="hidden">Kute Shop Html Theme</h1>
+                                        <a href="<%= Page.ResolveUrl("~")%>Default.aspx">
+                                            <img src="<%=Page.ResolveUrl("~")%>img/chs_logo.jpg" height="70"  alt="" /></a>
+                                    </div>
+                                </div>
+                                <div class="col-md-6 col-sm-5 col-xs-10">
+                                    <div class="wrap-search1">
+                                        <div class="smart-search smart-search2">
+                                            <div class="select-category">
+                                                <a class="category-toggle-link" href="#"><span>All Categories</span></a>
+                                                <ul class="list-category-toggle list-unstyled">
+
+                                                    <asp:Repeater runat="server" ID="rptrcategory">
+                                                        <ItemTemplate>
+                                                            <li><a href="#"><span><%#Eval("MenuText") %> </span></a></li>
+                                                        </ItemTemplate>
+                                                    </asp:Repeater>
+
+
+                                                </ul>
+                                            </div>
+                                            <div class="smart-search-form">
+                                                <input type="text" onblur="if (this.value=='') this.value = this.defaultValue" onfocus="if (this.value==this.defaultValue) this.value = ''" value="Search...">
+                                                <div class="submit-form">
+                                                    <input class="radius" type="submit" value="">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+     <%--                           <div class="col-md-2 col-sm-3 col-xs-3">
+                                    <div class="currency-language currency-language3">
+                                        <div class="language-box">
+                                            <a href="#" class="language-current">
+                                                <i class="fa fa-user-circle-o" style="padding-top: 10px; padding-bottom: 5px; font-size: 30px;"></i></a>
+
+                                            <ul class="language-list list-unstyled">
+                                                <li><a href="#" data-toggle="modal" data-target="#myModal">My Account</a></li>
+                                                <li><a href="#" data-toggle="modal" data-target="#myModal">checkout</a></li>
+                                                <li><a href="#" data-toggle="modal" data-target="#myModal">LogIn / Register</a></li>
+                                            </ul>
+                                        </div>
+
+                                    </div>
+                                </div>--%>
+
+                                <div class="col-md-3 col-sm-4 col-xs-12">
+                                    <div class="cart-social clearfix">
+                                        <div class="mini-cart-box mini-cart1">
+                                            <a class="mini-cart-link" href="<%= Page.ResolveUrl("~")%>Pages/Cart/Cart.aspx">
+                                                <span class="mini-cart-icon"><i class="fa fa-shopping-basket" aria-hidden="true"></i></span>
+                                                <%--<span class="mini-cart-number border radius">0</span>--%>
+                                                <asp:Label runat="server" ID="lblcount" Font-Size="Medium" class="mini-cart-number border radius" Text="0"></asp:Label>
+                                            </a>
+                                            <div class="mini-cart-content">
+
+                                                <h2>
+                                                    <asp:Label runat="server" ID="lblcountinside" class="mini-cart-number border radius" Text="0"></asp:Label>
+                                                    ITEMS IN MY CART</h2>
+
+                                                <div class="mini-cart-button">
+                                                    <a class="mini-cart-view" href="<%= Page.ResolveUrl("~")%>Pages/Cart/Cart.aspx">view my cart </a>
+                                                    <a class="mini-cart-checkout" href="<%= Page.ResolveUrl("~")%>Pages/Cart/CheckOut.aspx">Checkout</a>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Main Header -->
+                    <div class="header-nav9 header-nav12">
+                        <div class="container">
+                            <div class="nav-search9">
+                                <nav class="main-nav main-nav12">
+                                    <ul>
+                                        <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Default.aspx">Home</a>
+
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="#">Popular  </a>
+
+                                            <asp:Repeater ID="rptrSubCatePopular" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/CategoryGridPage.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                            <!-- End Mega Menu -->
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/CategoryPage.aspx?CatID=2 ">Chair</a>
+
+                                            <asp:Repeater ID="rptrSubCateFoodcupboard" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                    <%--<li><a href='Pages/Home/ProductsByCategory.aspx?Subcatid=<%# Eval("Id")%>'><%#Eval("MenuText") %> </a></li>--%>
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/CategoryGridPage.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                            <!-- End Mega Menu -->
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/CategoryPage.aspx?CatID=3 ">Table </a>
+                                            <asp:Repeater ID="rptrforFresh" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                    <%--  <li><a href='Pages/Home/ProductsByCategory.aspx?Subcatid=<%# Eval("Id")%>'><%#Eval("MenuText") %> </a></li>--%>
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/CategoryGridPage.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                            <!-- End Mega Menu -->
+                                        </li>
+
+                                        <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/CategoryPage.aspx?CatID=4 ">Sofa  </a>
+
+                                            <asp:Repeater ID="rptrdrinkandbreverage" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                   
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/CategoryGridPage.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                        </li>
+
+                                       <%-- <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/CategoryPage.aspx?CatID=9 ">Frozen Food </a>
+
+                                            <asp:Repeater ID="rptrfrozenfood" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                   
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/ProductsByCategory.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                        </li>--%>
+
+            <%--                            <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/CategoryPage.aspx?CatID=11">Packaging & disposable </a>
+
+                                            <asp:Repeater ID="rptrpackingdisposal" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                  
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/ProductsByCategory.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                        </li>--%>
+
+                                        <li class="menu-item-has-children">
+                                            <a href="#">About Us </a>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/Help.aspx">Contact Us</a>
+                                        </li>
+
+                                    </ul>
+                                    <a href="#" class="toggle-mobile-menu"><span></span></a>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Header Nav -->
+                </div>
+
+                <div class="header-ontop">
+                    <div class="container">
+                        <div class="row">
+                            <%--     <div class="col-md-2 col-sm-2 col-xs-12">
+                                <div class="logo">
+                                    <h1 class="hidden">kuteshop wordpress theme</h1>
+                                    <a href="index.html">
+                                        <img src="images/home12/logo.png" alt="" /></a>
+                                </div>
+                            </div>--%>
+                            <div class="col-md-11 col-sm-11 col-xs-12">
+                                <nav class="main-nav main-nav-ontop">
+                                    <ul>
+                                        <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Default.aspx">Home</a>
+
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="#">Popular  </a>
+
+                                            <asp:Repeater ID="rptrpoular2" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/CategoryGridPage.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                            <!-- End Mega Menu -->
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/CategoryPage.aspx?CatID=2 ">Chair</a>
+
+                                            <asp:Repeater ID="rptrfoodcupboard2" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                    <%--<li><a href='Pages/Home/ProductsByCategory.aspx?Subcatid=<%# Eval("Id")%>'><%#Eval("MenuText") %> </a></li>--%>
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/CategoryGridPage.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                            <!-- End Mega Menu -->
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/CategoryPage.aspx?CatID=3 ">Table </a>
+                                            <asp:Repeater ID="rptrfresh2" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                    <%--  <li><a href='Pages/Home/ProductsByCategory.aspx?Subcatid=<%# Eval("Id")%>'><%#Eval("MenuText") %> </a></li>--%>
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/CategoryGridPage.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                            <!-- End Mega Menu -->
+                                        </li>
+
+                                        <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/CategoryPage.aspx?CatID=4 ">Sofa  </a>
+
+                                            <asp:Repeater ID="rptrdrink2" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                   
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/CategoryGridPage.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                        </li>
+
+         <%--                               <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/CategoryPage.aspx?CatID=9 ">Frozen Food </a>
+
+                                            <asp:Repeater ID="rptrfrozen2" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                    
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/ProductsByCategory.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                        </li>--%>
+
+          <%--                              <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/CategoryPage.aspx?CatID=11">Packaging & disposable </a>
+
+                                            <asp:Repeater ID="rptrpackaging2" runat="server">
+                                                <HeaderTemplate>
+                                                    <ul class="sub-menu">
+                                                </HeaderTemplate>
+                                                <ItemTemplate>
+                                                   
+                                                    <li><a href='<%= Page.ResolveUrl("~")%>Pages/Home/ProductsByCategory.aspx?Subcatid=<%# Eval("Id")%>&catid=<%# Eval("ParentId")%>'><%#Eval("MenuText") %> </a></li>
+                                                </ItemTemplate>
+                                                <FooterTemplate>
+                                                    </ul>
+                                                </FooterTemplate>
+                                            </asp:Repeater>
+                                        </li>--%>
+
+                                        <li class="menu-item-has-children">
+                                            <a href="#">Sales </a>
+                                        </li>
+                                        <li class="menu-item-has-children">
+                                            <a href="<%= Page.ResolveUrl("~")%>Pages/Help.aspx">Need Help</a>
+                                        </li>
+
+                                    </ul>
+
+                                </nav>
+                                <!-- End Main Nav -->
+                            </div>
+                            <div class="col-md-1 col-sm-1 col-xs-12">
+                                <div class="check-cart check-cart-ontop">
+
+                                    <!-- End Wishlist -->
+                                    <div class="mini-cart-box">
+                                        <a class="mini-cart-link" href="Pages/Cart/Cart.aspx">
+                                            <span class="mini-cart-icon"><i class="fa fa-shopping-basket" aria-hidden="true"></i></span>&nbsp;&nbsp;
+                                            &nbsp;&nbsp;&nbsp;
+                                            <asp:Label runat="server" ID="countproduct" Font-Size="Medium" class="mini-cart-number" Text="0"></asp:Label>
+                                        </a>
+
+                                        <div class="mini-cart-content">
+                                            <h2>
+                                                <asp:Label runat="server" ID="lblcounttext" class="mini-cart-number border radius" Text="0"></asp:Label>
+                                                ITEMS IN MY CART</h2>
+
+                                            <div class="mini-cart-button">
+                                                <a class="mini-cart-view" href="<%= Page.ResolveUrl("~")%>Pages/Cart/Cart.aspx">view my cart </a>
+                                                <a class="mini-cart-checkout" href="<%= Page.ResolveUrl("~")%>Pages/Cart/CheckOut.aspx">Checkout</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- End Mini Cart -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!-- End Header On Top -->
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+
+
+            <!-- End Content -->
+            <div id="footer">
+                <div class="footer footer1">
+                    <div class="container">
+
+                        <!-- End Service Footer -->
+                        <div class="footer-list-box">
+                            <div class="row">
+                                <div class="col-md-5 col-sm-12 col-xs-12">
+                                    <div class="newsletter-form footer-box">
+                                        <h2 class="title14">Subscription</h2>
+                                        <div class="row">
+                                            <div class="col-md-8 col-sm-6 col-xs-12">
+                                                <asp:TextBox runat="server" Width="250px" ID="txttext" onblur="if (this.value=='') this.value = this.defaultValue" onfocus="if (this.value==this.defaultValue) this.value = ''" value="Place enter your email"></asp:TextBox>
+                                            </div>
+                                            <div class="col-md-4 col-sm-6 col-xs-12">
+                                                <asp:Button runat="server" ID="btnsubmit" Text="Subscription" />
+                                            </div>
+
+
+                                            <%--  <input type="text" onblur="if (this.value=='') this.value = this.defaultValue" onfocus="if (this.value==this.defaultValue) this.value = ''" value="Place enter your email">
+                                            <input type="submit" value="Subscription">--%>
+                                        </div>
+                                    </div>
+                                    <div class="social-footer footer-box">
+                                        <h2 class="title14">Stay Connected</h2>
+                                        <div class="list-social">
+                                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                                            <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+                                            <a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-2 col-sm-3 col-xs-6">
+                                    <div class="menu-footer-box footer-box">
+                                        <h2 class="title14">How to Buy</h2>
+                                        <ul class="list-unstyled">
+                                            <li><a href="#">Create an Account</a></li>
+                                            <li><a href="#">Making Payments</a></li>
+                                            <li><a href="#">Delivery Options</a></li>
+                                            <li><a href="#">Buyer Protection</a></li>
+                                            <li><a href="#">New User Guide</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-2 col-sm-3 col-xs-6">
+                                    <div class="menu-footer-box footer-box">
+                                        <h2 class="title14">Customer Service</h2>
+                                        <ul class="list-unstyled">
+                                            <li><a href="#">Customer Support</a></li>
+                                            <li><a href="#">Affiliate Program</a></li>
+                                            <li><a href="#">Blog</a></li>
+                                            <li><a href="#">About us</a></li>
+                                            <li><a href="#">Contact us</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col-md-3 col-sm-6 col-xs-12">
+                                    <div class="contact-footer-box footer-box">
+                                        <h2 class="title14">contact us</h2>
+                                        <p class="formule-address">
+                                            Unit-15 Canning Road,
+                                             Abbey Trading Point,
+                                                London,E15 3NW,
+                                                 United Kingdom .
+                                        </p>
+                                        <p class="formule-phone">
+                                            01992 252141<br>
+                                            +1 504 889 9898
+                                        </p>
+                                        <p class="formule-email"><a href="mailto:sales@brrwholesale.com">sales@brrwholesale.com</a></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Footer List Box -->
+                    </div>
+                    <div class="payment-method text-center">
+                        <a href="#" class="wobble-vertical">
+                            <img src="<%=Page.ResolveUrl("~")%>images/home4/pay1.png" alt="" /></a>
+                        <a href="#" class="wobble-vertical">
+                            <img src="<%=Page.ResolveUrl("~")%>images/home4/pay2.png" alt="" /></a>
+                        <a href="#" class="wobble-vertical">
+                            <img src="<%=Page.ResolveUrl("~")%>images/home4/pay3.png" alt="" /></a>
+                        <a href="#" class="wobble-vertical">
+                            <img src="<%=Page.ResolveUrl("~")%>images/home4/pay4.png" alt="" /></a>
+                    </div>
+                    <!-- End Payment -->
+
+                    <!-- End Footer Tab -->
+                    <div class="footer-copyright">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-8 col-sm-8 col-xs-12">
+                                    <p class="copyright">Copyright © 2019 CHS Furniture All rights reserved.</p>
+                                </div>
+                                <div class="col-md-4 col-sm-4 col-xs-12">
+                                    <p class="designby">Design by: <a href="http://www.ptisystem.com">ptisystem.com</a></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Footer Copyright -->
+                </div>
+            </div>
+            <!-- End Footer -->
+            <a href="#" class="radius scroll-top style1"><i class="fa fa-angle-up" aria-hidden="true"></i></a>
+
+        </div>
+
+    </form>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
+    <script type="text/javascript" src="<%= Page.ResolveUrl("~")%>js/libs/bootstrap.min.js"></script>
+    <script type="text/javascript" src="<%= Page.ResolveUrl("~")%>js/libs/jquery.fancybox.js"></script>
+    <script type="text/javascript" src="<%= Page.ResolveUrl("~")%>js/libs/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="<%= Page.ResolveUrl("~")%>js/libs/owl.carousel.js"></script>
+    <script type="text/javascript" src="<%= Page.ResolveUrl("~")%>js/libs/jquery.jcarousellite.js"></script>
+    <script type="text/javascript" src="<%= Page.ResolveUrl("~")%>js/libs/jquery.elevatezoom.js"></script>
+    <script type="text/javascript" src="<%= Page.ResolveUrl("~")%>js/libs/jquery.mCustomScrollbar.js"></script>
+    <script type="text/javascript" src="<%= Page.ResolveUrl("~")%>js/libs/TimeCircles.js"></script>
+    <script type="text/javascript" src="<%= Page.ResolveUrl("~")%>js/theme.js"></script>
+
+</body>
+</html>

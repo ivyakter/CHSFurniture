@@ -1,0 +1,11 @@
+CREATE TABLE [dbo].[CategoryImages](
+	[CatIMGID] [int] IDENTITY(1,1) NOT NULL,
+	[CatID] [int] NULL,
+	[Name] [nvarchar](50) NULL,
+	[Extention] [varchar](50) NULL,
+	[ImageSize] [varchar](50) NULL,
+ CONSTRAINT [PK__Category__8FCE94FD316D4A39] PRIMARY KEY CLUSTERED 
+(
+	[CatIMGID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]

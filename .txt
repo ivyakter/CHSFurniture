@@ -1,0 +1,7103 @@
+    
+Local Area Connection:
+Node IpAddress: [115.42.52.36] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [115.42.52.36] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [103.231.163.118] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    TOREKUL-PC     <00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    TOREKUL-PC     <20>  UNIQUE      Registered 
+    WORKGROUP      <1E>  GROUP       Registered 
+
+    MAC Address = 38-60-77-6B-EF-64
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WIN-PRPA5P7HAAR<00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-PRPA5P7HAAR<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    TOREKUL-PC     <00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    TOREKUL-PC     <20>  UNIQUE      Registered 
+
+    MAC Address = 38-60-77-6B-EF-64
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    SHAMIM-PC      <00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    SHAMIM-PC      <20>  UNIQUE      Registered 
+    WORKGROUP      <1E>  GROUP       Registered 
+    WORKGROUP      <1D>  UNIQUE      Registered 
+    ..__MSBROWSE__.<01>  GROUP       Registered 
+
+    MAC Address = 00-E0-4C-5A-18-1F
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WIN-PRPA5P7HAAR<00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-PRPA5P7HAAR<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [169.254.115.80] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WIN-PRPA5P7HAAR<00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-PRPA5P7HAAR<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    SHAMIM-PC      <00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    SHAMIM-PC      <20>  UNIQUE      Registered 
+    WORKGROUP      <1E>  GROUP       Registered 
+    WORKGROUP      <1D>  UNIQUE      Registered 
+    ..__MSBROWSE__.<01>  GROUP       Registered 
+
+    MAC Address = 00-E0-4C-5A-18-1F
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [169.254.93.102] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WIN-NE0AU0V83A4<00>  UNIQUE      Registered 
+    PTISYSTEM      <1C>  GROUP       Registered 
+    PTISYSTEM      <00>  GROUP       Registered 
+    WIN-NE0AU0V83A4<20>  UNIQUE      Registered 
+    PTISYSTEM      <1B>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [169.254.93.102] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WIN-NE0AU0V83A4<00>  UNIQUE      Registered 
+    PTISYSTEM      <1C>  GROUP       Registered 
+    PTISYSTEM      <00>  GROUP       Registered 
+    WIN-NE0AU0V83A4<20>  UNIQUE      Registered 
+    PTISYSTEM      <1B>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [169.254.93.102] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [169.254.93.102] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WIN-NE0AU0V83A4<00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-NE0AU0V83A4<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [169.254.93.102] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WIN-NE0AU0V83A4<00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-NE0AU0V83A4<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WIN-68DHTSARP0L<00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-68DHTSARP0L<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WIN-68DHTSARP0L<00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-68DHTSARP0L<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-6UVPIH1IDAF<00>  UNIQUE      Registered 
+    WIN-6UVPIH1IDAF<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-6UVPIH1IDAF<00>  UNIQUE      Registered 
+    WIN-6UVPIH1IDAF<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-6UVPIH1IDAF<00>  UNIQUE      Registered 
+    WIN-6UVPIH1IDAF<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-6UVPIH1IDAF<00>  UNIQUE      Registered 
+    WIN-6UVPIH1IDAF<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WIN-E0UQTN8U9TD<00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-E0UQTN8U9TD<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    WORKGROUP      <00>  GROUP       Registered 
+    WIN-E0UQTN8U9TD<00>  UNIQUE      Registered 
+    WIN-E0UQTN8U9TD<20>  UNIQUE      Registered 
+
+    MAC Address = 00-1E-67-8A-D8-B1
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    CHS-PC         <00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    CHS-PC         <20>  UNIQUE      Registered 
+
+    MAC Address = 74-D4-35-63-AB-39
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    CHS-PC         <00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    CHS-PC         <20>  UNIQUE      Registered 
+
+    MAC Address = 74-D4-35-63-AB-39
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    CHS-PC         <00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    CHS-PC         <20>  UNIQUE      Registered 
+    WORKGROUP      <1E>  GROUP       Registered 
+    WORKGROUP      <1D>  UNIQUE      Registered 
+    ..__MSBROWSE__.<01>  GROUP       Registered 
+
+    MAC Address = 74-D4-35-63-AB-39
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    CHS-PC         <00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    CHS-PC         <20>  UNIQUE      Registered 
+    WORKGROUP      <1E>  GROUP       Registered 
+    WORKGROUP      <1D>  UNIQUE      Registered 
+    ..__MSBROWSE__.<01>  GROUP       Registered 
+
+    MAC Address = 74-D4-35-63-AB-39
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    CHS-PC         <00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    WORKGROUP      <1E>  GROUP       Registered 
+    CHS-PC         <20>  UNIQUE      Registered 
+    WORKGROUP      <1D>  UNIQUE      Registered 
+    ..__MSBROWSE__.<01>  GROUP       Registered 
+
+    MAC Address = 74-D4-35-63-AB-39
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.0.8] Scope Id: []
+
+           NetBIOS Remote Machine Name Table
+
+       Name               Type         Status
+    ---------------------------------------------
+    CHS-PC         <00>  UNIQUE      Registered 
+    WORKGROUP      <00>  GROUP       Registered 
+    CHS-PC         <20>  UNIQUE      Registered 
+    WORKGROUP      <1E>  GROUP       Registered 
+    WORKGROUP      <1D>  UNIQUE      Registered 
+    ..__MSBROWSE__.<01>  GROUP       Registered 
+
+    MAC Address = 74-D4-35-63-AB-39
+
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection 2:
+Node IpAddress: [0.0.0.0] Scope Id: []
+
+    Host not found.
+    
+Local Area Connection:
+Node IpAddress: [192.168.1.101] Scope Id: []
+
+    Host not found.

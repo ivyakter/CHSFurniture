@@ -1,0 +1,429 @@
+#header, #topbar, #topnav, #breadcrumb, #homecontent, #container, #footer, #copyright{display:block; position:relative; width:960px; margin:0 auto;}
+
+body{margin-left: 0%; margin-right: 0%; background:#EFEFEF; background-image:url("../../img/bg2.jpg");  }
+.navbar{width: 100%;}
+
+#topbar{position:relative; margin:0 auto; display:block; width:960px; font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif;}
+#topbar a{color:#4A5155; background-color:#FBD43B; }
+#topbar a:hover{color:#4A5155; background-color:#F7CF37;}
+#slidepanel{display:none; position:relative; width:960px; overflow:hidden;
+ color:#E3DFD2; }
+.navbar-nav  {padding-top: 10px;}
+ .navbar-info > ul > li{}
+ #abc1{background-color: #0E6C93;}
+ #abc2{background-image:url("../../img/1.jpg"); width:100%;}
+ 
+ input[type=submit] {    
+    padding-left: 10px;
+    padding-right: 10px;
+    margin:15px;
+    padding:-1px;     
+}
+ .panel{border: 1px solid #008BC4;}
+ .admisson > a { font-size:18px; color:#02ba0b;}
+ 
+  .admisson > a:hover{color:#098e02;}
+ /* ----------------------------------------------Content------------------------------------- */
+
+#topbar .topbox{display:block; float:left; width:270px; margin:0 30px 0 0; padding:15px;}
+#topbar .last{margin-right:0;}
+#topbar h1, #topbar h2, #topbar h3, #topbar h4, #topbar h5, #topbar h6{font-size:18px; margin:0 0 15px 0;
+ padding:0 0 8px 0; border-bottom:1px dotted #E7E6E6;}
+#topbar p{margin:0 0 15px 0; padding:0; line-height:1.6em;}
+#topbar p.readmore{display:block; margin:0; text-align:right; line-height:normal; font-weight:bold;}
+
+/* ----------------------------------------------Forms------------------------------------- */
+
+#topbar form, #topbar fieldset, #topbar legend{margin:0; padding:0; border:none;}
+#topbar legend{display:none;}
+#topbar input, #topbar textarea, #topbar select{font-size:12px; font-family:Verdana, Arial, Helvetica, sans-serif;}
+#topbar label{display:block; width:270px; margin:0 0 12px 0; padding:0;}
+#topbar label input{display:block; width:262px; margin:5px 0; padding:3px; color:#333333; background-color:#F8F7DF; border:1px solid #CCCCCC;}
+#topbar .topbox p input{padding:3px 10px; color:#666666; background-color:#F7F7F7; border:1px solid #CCCCCC; cursor:pointer;}
+#topbar label input.checkbox{display:inline; width:auto; margin:0 5px 0 0; padding:0;} 
+
+
+#loginpanel{display:block; position:relative; top:0; }
+#loginpanel ul{display:block; float:right; width:210px; height:24px; margin:0; padding:6px 0 0 0; padding-bottom: 30px;
+ text-align:center; color:#000; background-color:#FBD43B;  border-radius: 4px;   }
+#loginpanel li{display:block; height:24px; margin:0; padding:0; }
+#loginpanel li.left{float:left; text-align:right; padding-left:10px; background:url("images/tab_l.gif") no-repeat bottom left; font-size: 13px;}
+#loginpanel li.right{float:right; text-align:left; padding-right:10px; background:url("images/tab_r.gif") no-repeat bottom right;  font-size: 15px;}
+#loginpanel a{display:block; width:100px;}
+#slidepanel{display:none; position:relative; width:960px; overflow:hidden; color:#4A5155;
+ background:url("images/tab_l.gif") bottom left no-repeat #FBD43B;}
+
+ .navbar{background-color:#333333;}
+ #manu > li > a {font-size: 16px;  color: #fff; font-family:Verdana, Arial, Helvetica, sans-serif;}
+.nav > li > a:focus, .nav > li > a:hover{background-color: #32A9C9; border-radius: 5px;}
+.nav .open > a, .nav .open > a:focus{background-color: #185A78; border-radius: 5px; }
+
+/* ----------------------------------------------slider------------------------------------- */
+.slider-section{ margin-top: 10px; }
+.carousel-inner > .item > img{height: 300px;}
+p{text-align: justify; }
+/* ----------------------------------------------RECENT NOTICES------------------------------------- */
+.wellcome { }
+.wellcome p {color: #fff;}
+.wellcome h3{text-align: center; color: #fff; border-bottom: 1px solid #fff;}
+.panel-default > .panel-heading {background-color: #006ab8;}
+.panel-heading > span {color: #fff; font-family:Verdana, Arial, Helvetica, sans-serif;}
+.panel-default {margin-top: 0%;  }
+.panel-default > .admisson{ border-bottom:  1px solid #DDDDDD; padding-left: 15px; padding-bottom: 20px; padding-top: 5px; }
+.admisson .info{ color: #0a0a0a; }
+.panel-default{background: #fff;}
+/* ---------------------------------------------- NOTICES bord------------------------------------- */
+.NOTICES{background-color: #0C8FC5; border: 1px solid #008BC4;; border-radius: 5px; margin-bottom: 1%; }
+ #head {color:White; text-align: center; font-size: 22px; font-family: 'Open Sans', sans-serif; margin-top: 1%; margin-bottom: 1%; border-bottom: 1px solid #fff;}
+
+ {font-family: 'Open Sans', sans-serif;}
+ .fast-col,  h3{padding-bottom: 10px; font-family: 'Open Sans', sans-serif; }
+ .fast-col h3 a{ color: #fff; font-family: 'Open Sans', sans-serif;}
+ .fast-col { border-right: 1px solid #fff;  }
+ .fast-col p{ color: #fff; text-align: justify; font-size: 14px; font-family: 'Open Sans', sans-serif;}
+
+
+ .secend-col,  h3{padding-bottom: 10px; font-family: 'Open Sans', sans-serif; }
+ .secend-col h3 a{ color: #fff; font-family: 'Open Sans', sans-serif;}
+ .secend-col { border-right: 1px solid #fff;  }
+ .secend-col p{ color: #fff; text-align: justify; font-size: 14px; font-family: 'Open Sans', sans-serif;}
+
+ .three-col,  h3{padding-bottom: 10px; font-family: 'Open Sans', sans-serif; }
+ .three-col h3 a{ color: #fff; font-family: 'Open Sans', sans-serif;}
+ .three-col { border-right: 1px solid #fff;  }
+ .three-col p{ color: #fff; text-align: justify; font-size: 14px;  font-family: 'Open Sans', sans-serif; }
+
+ .four-col,  h3{padding-bottom: 10px; font-family: 'Open Sans', sans-serif; }
+ .four-col h3 a{ color: #fff; font-family: 'Open Sans', sans-serif;}
+ .four-col p{ color: #fff; text-align: justify; font-size: 14px; font-family: 'Open Sans', sans-serif; }
+ 
+
+/* ----------------------------------------------Footer------------------------------------- */
+#ftd{background-color: #E1E7CD; padding-bottom: 1%; border-radius: 5px; border: 1px solid #008BC4;}
+#footer{padding:20px 0;}
+#footer h2, #footer p, #footer ul, #footer a{margin:0; padding:0; font-weight:normal; list-style:none; line-height:normal;}
+#footer h2{font-size:18px; font-weight:normal; margin-bottom:10px; padding-bottom:8px; border-bottom:1px dotted #999999;}
+#footer li{margin-bottom:5px;}
+#footer .footbox{display:block; float:left; width:180px; margin:0 15px 0 0; padding:0;}
+#footer .last{margin:0;}
+
+/* ----------------------------------------------Copyright------------------------------------- */
+#copy1{background-color: #6C6F79; margin-bottom: 1%; border-radius: 5px; border: 1px solid #008BC4;}
+#copyright{padding-top: 25px;}
+#copyright p{margin: 0px; padding: 0px; text-align: center; color: #fff; }
+.fl_left{text-align: center; margin-top: 1%;}
+/* ----------------------------------------------page------------------------------------- */
+.tabile{width: 100%; border: 1px solid #006AB8; border-radius: 4px; margin-top: 2%;  margin-left: 15px; height: auto;}
+.tabile1{width: 100%; border: 1px solid #006AB8; border-radius: 4px; margin-top: 0%;  margin-left: 0px; height: auto;}
+.tabile2{width: 100%; border: 1px solid #006AB8; border-radius: 4px; margin-top: 0%;  margin-left: 15px; height: 535px;}
+.ta_hader{background-color: #2A3342; padding-top: 5px; padding-bottom: 5px; }
+.ta_hader h4{ text-align: center; color: #fff;}
+.ta_body{max-height: 450px;}
+.ta_body > ul > li {list-style: none; padding: 5px;}
+
+.admisson {border-bottom: 1px solid #006AB8; padding: 5px;}
+.admisson .info{padding-bottom: 10px;}
+
+.image1
+{
+   background-color: #76B6E1;
+   border: 2px solid #E08B36;
+   border-radius: 20px;    
+ }
+ .slider
+ {
+ padding:0px;
+ margin:0px;
+ margin-top:10px;
+ }
+ 
+ 
+ .outer_face {
+    position: relative;
+    width: 200px; /* width of clock */
+    height: 200px; /* height of clock */
+    border-radius: 200px; /* clock round corner radius */
+    background: white;
+    box-shadow: inset 0 0 10px gray;
+    border: 0 solid gray; /* thickness of outer border */
+    }
+
+.outer_face::before, .outer_face::after, .outer_face .marker { /* time markers syle */
+    content: "";
+    position: absolute;
+    width: 8px; /* width of 12-6 and 3-9 markers */
+    height: 100%;
+    background: black;
+    z-index: 0;
+    left: 50%;
+    margin-left: -4px; /* set this value of 1/2 marker width */
+    top: 0
+    }
+
+.outer_face::after {
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg)
+    }
+
+.outer_face .marker {
+    background: gray;
+    width: 6px; /* width of all other markers */
+    margin-left: -3px /* set this value of 1/2 marker width */
+    }
+
+.outer_face .marker.oneseven {
+    -moz-transform: rotate(30deg);
+    -ms-transform: rotate(30deg);
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg)
+    }
+
+.outer_face .marker.twoeight {
+    -moz-transform: rotate(60deg);
+    -ms-transform: rotate(60deg);
+    -webkit-transform: rotate(60deg);
+    transform: rotate(60deg)
+    }
+
+.outer_face .marker.fourten {
+    -moz-transform: rotate(120deg);
+    -ms-transform: rotate(120deg);
+    -webkit-transform: rotate(120deg);
+    transform: rotate(120deg)
+    }
+
+.outer_face .marker.fiveeleven {
+    -moz-transform: rotate(150deg);
+    -ms-transform: rotate(150deg);
+    -webkit-transform: rotate(150deg);
+    transform: rotate(150deg)
+    }
+
+.inner_face {
+    position: relative;
+    width: 88%;
+    height: 88%;
+    background: white;
+    -moz-border-radius: 1000px;
+    -webkit-border-radius: 1000px;
+    border-radius: 1000px;
+    z-index: 1000;
+    left: 6%; /* set this value of 1/2 width value*/
+    top: 6% /* set this value of 1/2 height value*/
+    }
+
+.inner_face::before {
+    /* clock center circle small */
+    content: "";
+    width: 18px; /* width of inner circle */
+    height: 18px; /* height of inner circle */
+    border-radius: 18px;
+    margin-left: -9px; /* set this value of 1/2 width value*/
+    margin-top: -9px; /* set this value of 1/2 height value*/
+    background: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    box-shadow: 0 0 30px blue;
+    }
+
+.inner_face::after {
+    content: "QUARTZ";
+    position: absolute;
+    width: 100%;
+    font: normal 0.8em Arial;
+    color: gray;
+    text-align: center;
+    top: 85%
+    }
+
+.hand, .hand.hour {
+    position: absolute;
+    width: 4px; /* width of hour hand */
+    height: 30%; /* height of hour hand */
+    top: 20%; /* set top to 50% - height */
+    left: 50%;
+    margin-left: -2px; /* set this value to 1/2 width */
+    background: black;
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -moz-transform-origin: bottom;
+    -ms-transform-origin: bottom;
+    -webkit-transform-origin: bottom;
+    transform-origin: bottom;
+    z-index: -1;
+    -moz-box-shadow: 0 0 3px gray;
+    -webkit-box-shadow: 0 0 3px gray;
+    box-shadow: 0 0 3px gray
+    }
+
+.hand.minute {
+    height: 45%; /* height of min hand */
+    top: 5%; /* set top to 50% - height */
+    width: 5px; /* width of min hand */
+    margin-left: -2.5px; /* set this value to 1/2 width */
+    }
+
+.hand.second {
+    height: 50%; /* height of sec hand */
+    width: 2px; /* width of sec hand */
+    margin-left: -1px; /* set this value to 1/2 width */
+    top: 0;
+    background: red
+    }
+    
+    #icon-grid {
+    padding-top: 10px;
+    padding-bottom: 0px;
+    max-width: 970px;
+    margin: auto;
+}
+.case-wrapper {
+    position: relative;
+    margin: 0px;
+    float: left;
+    width: 138px;
+    height: 140px;
+}
+
+.case-wrapper a {
+    color: #fff;
+}
+.app-icon {
+    padding: 20px;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    border-radius: 16px;
+    cursor: pointer;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.15);
+}
+.app-icon i {
+    font-size: 32px;
+    min-width: 32px;
+    color: #fafbfc;
+    display: inline-block;
+    transition: 0.2s;
+    -webkit-transition: 0.2s;
+    text-shadow: -1px 1px 5px rgba(0, 0, 0, 0.15);
+}
+ .modalBackground
+        {
+            background-color: Black;
+            filter: alpha(opacity=90);
+            opacity: 0.8;
+        }
+        .modalPopup
+        {
+            background-color: #FFFFFF;
+            border-width: 3px;
+            border-style: solid;
+            border-color: black;
+            padding-top: 10px;
+            padding-left: 5px;
+            padding-right: 5px;
+            width: 700px;
+            height: auto;
+        }
+        
+/*----Tree View CSS*/
+        
+A
+{
+	color:black;
+}
+
+.topLevelMenu
+{
+	border-right: #808080 1px solid;
+	border-top: white 1px solid;
+	border-left: white 1px solid;
+	border-bottom: #808080 1px solid;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	padding-right: 2px;
+	padding-left: 2px;
+	background: #6699ff;
+	width: 160px;
+	color: white;
+	font-weight: bold;
+}
+
+
+.topLevelMenu a
+{
+	color: Black;
+	font: 8pt verdana;
+	text-decoration: none;
+}
+
+.topLevelMenu a:hover
+{
+	color: Blue;
+	text-decoration: underline;
+}
+
+.menuItem
+{
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:2px;
+	padding-right:2px;
+}
+
+.menuItem a
+{
+	color: Black;
+	font: 8pt verdana;
+	text-decoration: none
+}
+
+.menuItem a:hover
+{
+	padding-right: 2px;
+	padding-left: 2px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	background: lavender;
+	color: black;
+	text-decoration: underline;
+}
+.menuImage > img 
+{
+    background:url("../../images/collapse.gif") no-repeat bottom right!important;
+    
+    }
+.menuImage 
+{
+    
+    
+    }
+.menuSelected
+{
+	border-right: #808080 1px solid;
+	border-top: #808080 1px solid;
+	border-left: #808080 1px solid;
+	border-bottom: #808080 1px solid;
+	padding-right: 2px;
+	padding-left: 2px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	background: lightcyan;
+}
+
+.menuClicked
+{
+	border-right: #808080 1px solid;
+	padding-right: 2px;
+	border-top: #808080 1px solid;
+	padding-left: 2px;
+	background: #cccc99;
+	padding-bottom: 2px;
+	border-left: #808080 1px solid;
+	padding-top: 2px;
+	border-bottom: #808080 1px solid;
+}

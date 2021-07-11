@@ -1,0 +1,9 @@
+.side-manu{background-color: #fff; margin: 1% 0;}
+
+.panel-default > .panel-heading {background-color: #006ab8;}
+.panel-heading > span {color: #fff; font-family:Verdana, Arial, Helvetica, sans-serif;}
+.panel-default {margin-top: 3%; }
+.panel-default > .service{ border-bottom:  1px solid #DDDDDD; padding-left: 15px; padding-bottom: 20px; padding-top: 5px; }
+.panel-default > .service > a, span{color:#66668C; font-size: 14px;}
+.panel-default{background: #fff;}
+.logout{margin-top: 2%;}

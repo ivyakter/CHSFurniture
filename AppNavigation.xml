@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<AppNavigationSchema xmlns="http://tempuri.org/AppNavigationSchema.xsd">
+	<AppScreen>
+		<AppScreenId>1</AppScreenId>
+		<ScreenName>Book 1</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>2</AppScreenId>
+		<ScreenName>Section 1</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>3</AppScreenId>
+		<ScreenName>Section 2</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>4</AppScreenId>
+		<ScreenName>Topic 1</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>5</AppScreenId>
+		<ScreenName>Topic 1</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>6</AppScreenId>
+		<ScreenName>Page 1</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>7</AppScreenId>
+		<ScreenName>Book 2</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>8</AppScreenId>
+		<ScreenName>Section 1</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>9</AppScreenId>
+		<ScreenName>Section 2</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>10</AppScreenId>
+		<ScreenName>Topic 1</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>11</AppScreenId>
+		<ScreenName>Topic 1</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>12</AppScreenId>
+		<ScreenName>Sub Topic 1</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>13</AppScreenId>
+		<ScreenName>Page 1</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppScreen>
+		<AppScreenId>14</AppScreenId>
+		<ScreenName>Sub Topic 2</ScreenName>
+		<NavigateUrl>ChartofAccountsTreeView.aspx</NavigateUrl>
+		<QueryString>BookId=@BookId&amp;SectionId=@SecId</QueryString>
+		<GroupId>1</GroupId>
+	</AppScreen>
+	<AppMenu>
+		<AppMenuId>1</AppMenuId>
+		<MenuName>Book 1</MenuName>
+		<ScreenId>1</ScreenId>
+		<ParentMenuId>0</ParentMenuId>
+		<SortOrder>1</SortOrder>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>2</AppMenuId>
+		<MenuName>Section 1</MenuName>
+		<ScreenId>2</ScreenId>
+		<ParentMenuId>1</ParentMenuId>
+		<SortOrder>2</SortOrder>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>3</AppMenuId>
+		<MenuName>Section 2</MenuName>
+		<ScreenId>3</ScreenId>
+		<ParentMenuId>1</ParentMenuId>
+		<SortOrder>3</SortOrder>
+		<MenuLevel>1</MenuLevel>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>4</AppMenuId>
+		<MenuName>Topic 1</MenuName>
+		<ScreenId>4</ScreenId>
+		<ParentMenuId>2</ParentMenuId>
+		<SortOrder>4</SortOrder>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>5</AppMenuId>
+		<MenuName>Topic 1</MenuName>
+		<ScreenId>5</ScreenId>
+		<ParentMenuId>3</ParentMenuId>
+		<SortOrder>5</SortOrder>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>6</AppMenuId>
+		<MenuName>Page 1</MenuName>
+		<ScreenId>6</ScreenId>
+		<ParentMenuId>5</ParentMenuId>
+		<SortOrder>6</SortOrder>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>7</AppMenuId>
+		<MenuName>Book 2</MenuName>
+		<ScreenId>7</ScreenId>
+		<ParentMenuId>0</ParentMenuId>
+		<SortOrder>7</SortOrder>
+		<MenuLevel>1</MenuLevel>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>8</AppMenuId>
+		<MenuName>Section 1</MenuName>
+		<ScreenId>8</ScreenId>
+		<ParentMenuId>7</ParentMenuId>
+		<SortOrder>8</SortOrder>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>9</AppMenuId>
+		<MenuName>Section 2</MenuName>
+		<ScreenId>9</ScreenId>
+		<ParentMenuId>7</ParentMenuId>
+		<SortOrder>9</SortOrder>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>10</AppMenuId>
+		<MenuName>Topic 1</MenuName>
+		<ScreenId>10</ScreenId>
+		<ParentMenuId>8</ParentMenuId>
+		<SortOrder>10</SortOrder>
+		<MenuLevel>3</MenuLevel>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>11</AppMenuId>
+		<MenuName>Topic 1</MenuName>
+		<ScreenId>11</ScreenId>
+		<ParentMenuId>9</ParentMenuId>
+		<SortOrder>11</SortOrder>
+		<MenuLevel>3</MenuLevel>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>12</AppMenuId>
+		<MenuName>Header 1</MenuName>
+		<ScreenId>12</ScreenId>
+		<ParentMenuId>6</ParentMenuId>
+		<SortOrder>12</SortOrder>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>13</AppMenuId>
+		<MenuName>Paragraph 1</MenuName>
+		<ScreenId>13</ScreenId>
+		<ParentMenuId>12</ParentMenuId>
+		<SortOrder>13</SortOrder>
+	</AppMenu>
+	<AppMenu>
+		<AppMenuId>14</AppMenuId>
+		<MenuName>Header 2</MenuName>
+		<ScreenId>14</ScreenId>
+		<ParentMenuId>6</ParentMenuId>
+		<SortOrder>14</SortOrder>
+	</AppMenu>
+	<AppToolbar>
+		<AppToolbarId>1</AppToolbarId>
+		<Name>Home</Name>
+		<ScreenId>1</ScreenId>
+		<SortOrder>1</SortOrder>
+	</AppToolbar>
+</AppNavigationSchema>
